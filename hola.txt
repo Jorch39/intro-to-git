@@ -1,4 +1,8 @@
 Quiero pizza!!!
 
 
+<<<<<<< HEAD
 YA COMIMOS!
+=======
+ya no tengo tanta hambre
+>>>>>>> jorch
